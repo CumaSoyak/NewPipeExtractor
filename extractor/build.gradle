@@ -9,4 +9,9 @@ dependencies {
 
     testImplementation 'junit:junit:4.13'
     testImplementation "com.squareup.okhttp3:okhttp:3.12.11"
+
+    implementation 'com.liulishuo.okdownload:okdownload:1.0.5'
+    implementation 'com.liulishuo.okdownload:okhttp:1.0.5'
+    implementation 'com.liulishuo.okdownload:okhttp:1.0.5'
+    implementation 'com.squareup.okhttp3:okhttp:3.12.0'
 }
